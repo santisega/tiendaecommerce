@@ -1,0 +1,10 @@
+.containerImagen{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imagenProducto{
+    margin-bottom: 10px;
+}

@@ -8,9 +8,6 @@ function Home () {
         <div className="home">
             <Navbar></Navbar>
             <Productos></Productos>
-                <div>
-                    <p>Hola</p>
-                </div>
         </div>
     );
 }
